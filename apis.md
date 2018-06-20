@@ -1,43 +1,18 @@
 ---
-name: Cloud Elements
-x-slug: cloud-elements
-description: Cloud Elements is the leading API integration platform for SaaS app providers
-  and the digital enterprise. Turn integration into your competitive advantage.
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9066-cloud-elements.jpg
-x-kinRank: "7"
-x-alexaRank: "278908"
-tags: Cloud Elements
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/cloud-elements/master/_listings/cloud-elements/apis.md
+name: Streadata.io API Gallery - Cloud Elements
+description: This is a repository of cloud elements APIs, self-contained as a Github
+  repository, with HTML and YAML representations of the APIs and their surrounding
+  operations.
+image: http://template.streamdata.gallery/assets/cloud-elements.png
+created: "2018-02-24"
+modified: "2018-06-20"
+url: http://cloud-elements.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-blog
-  url: http://www.cloud-elements.com/blog/
-- type: x-blog-rss
-  url: http://www.cloud-elements.com/feed/
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/cloud-elements
-- type: x-developer
-  url: http://cloud-elements.com/developer/
-- type: x-email
-  url: info@cloud-elements.com
-- type: x-email
-  url: compliance@cloud-elements.com
-- type: x-github
-  url: https://github.com/cloud-elements
-- type: x-pricing
-  url: http://cloud-elements.com/pricing/
-- type: x-privacy
-  url: http://cloud-elements.com/privacy/
-- type: x-terms-of-service
-  url: http://cloud-elements.com/terms-conditions-use/
-- type: x-twitter
-  url: https://twitter.com/cloudelements
-- type: x-website
-  url: http://www.cloud-elements.com/
-include: []
+tags: Cloud Elements
+include:
+- name: Cloud Elements
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/cloud-elements/master/_listings/cloud-elements/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
