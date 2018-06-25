@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9066-cloud
 x-kinRank: "7"
 x-alexaRank: "278908"
 tags: Cloud Elements
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/cloud-elements/master/_listings/cloud-elements/apis.md
 specificationVersion: "0.14"
 apis:
